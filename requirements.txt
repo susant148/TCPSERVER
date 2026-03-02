@@ -3,3 +3,8 @@ pycryptodome
 colorama
 urllib3
 psutil
+aiohttp
+requests
+python-dotenv
+uvicorn
+fastapi
